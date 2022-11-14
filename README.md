@@ -1,7 +1,7 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
 Repositório criado para o Desafio.
 
-## Primeiro Desafio realizado no Bootcamp da DIO **Git/Github**
+## Primeiro Desafio realizado no Bootcamp da DIO
 
 Requisitos
 
